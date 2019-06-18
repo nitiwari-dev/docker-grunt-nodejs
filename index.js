@@ -15,5 +15,5 @@ app.get('/', function(req, res){
 
 //Listen on port 9000
 app.listen(9000, function(){
-	console.log('Lisening on port 9000')
+	console.log('Listening on port 9000')
 })
