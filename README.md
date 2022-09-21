@@ -3,6 +3,9 @@
 # docker-grunt-nodejs
 Project creates a docker image for nodejs project with grunt.
 
+Blog to go throught the steps:
+https://www.coderconsole.com/2019/06/how-to-create-docker-image-with-nodejs.html
+
 ### Create docker image 
 `docker build -t docker-node-grunt:1.0.0 -f Dockerfile .`
 
